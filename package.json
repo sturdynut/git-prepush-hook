@@ -1,12 +1,12 @@
 {
   "author": "Matti Salokangas <matti.salokangas@gmail.com> (https://github.com/sturdynut)",
-  "name": "prepush-hook",
-  "description": "A useful pre-push hook for git based projects.",
+  "name": "git-prepush-hook",
+  "description": "A really simple pre-push hook.",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/sturdynut/prepush-hook",
+  "homepage": "https://github.com/sturdynut/git-prepush-hook",
   "repository": {
-    "url": "https://github.com/sturdynut/prepush-hook.git"
+    "url": "https://github.com/sturdynut/git-prepush-hook.git"
   },
   "dependencies": {
     "git-validate": "^2.0.0"
