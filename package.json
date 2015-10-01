@@ -2,7 +2,7 @@
   "author": "Matti Salokangas <matti.salokangas@gmail.com> (https://github.com/sturdynut)",
   "name": "git-prepush-hook",
   "description": "A really simple pre-push hook.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "homepage": "https://github.com/sturdynut/git-prepush-hook",
   "repository": {
