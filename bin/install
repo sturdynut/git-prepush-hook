@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
-var Validate = require('git-validate');
-
-Validate.configureHook('pre-push', []);
+try {
+  require('git-validate').configureHook('pre-push', []);
+} 
+catch (e) {
+  console.log('git-prepush-hook install failed 💀\n' + e);
+}
