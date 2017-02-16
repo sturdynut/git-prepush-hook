@@ -1,6 +1,5 @@
 # git-prepush-hook
 
-[![Build Status](https://travis-ci.org/sturdynut/git-prepush-hook.svg?branch=master)](https://travis-ci.org/sturdynut/git-prepush-hook) 
 [![Dependency Status](https://david-dm.org/sturdynut/git-prepush-hook.svg)](https://david-dm.org/sturdynut/git-prepush-hook) 
 [![devDependency Status](https://david-dm.org/sturdynut/git-prepush-hook/dev-status.png)](https://david-dm.org/sturdynut/git-prepush-hook?type=dev)
 
